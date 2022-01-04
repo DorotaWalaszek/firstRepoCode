@@ -1,11 +1,11 @@
-#Pierwsze repo
+# Pierwsze repo
 
-##pomniejsy tytuł
-###jeszce mniejsy
+## pomniejsy tytuł
+### jeszce mniejsy
 
-**pogrubienie
+**pogrubienie**
 *pochylenie*
 Lista:
-*jeden
-*dwa
-*trzy
+* jeden
+* dwa
+* trzy
